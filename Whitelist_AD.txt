@@ -1,2 +1,2 @@
-www.tio.ch
+www.tio.ch/*
 clickserve.dartsearch.net
